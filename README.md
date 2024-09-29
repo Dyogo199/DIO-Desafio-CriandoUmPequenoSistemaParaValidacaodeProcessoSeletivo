@@ -1,0 +1,1 @@
+Esse projeto consiste em criar um pequeno sistema para validação de um processo seletivo. O sistema deve validar candidatos com base em critérios como nome, idade e pontuação de teste. A ideia é usar entradas de dados 
